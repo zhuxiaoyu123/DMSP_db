@@ -4,7 +4,7 @@
 
 <img width="863" height="586" alt="image" src="https://github.com/user-attachments/assets/821465d2-9b40-440f-8622-ee58867f32b6" />
 
-- **BurB** is a key enzyme in the methylation pathway of DMSP biosynthesis. In *Burkholderia thailandensis*, it contributes to the production of DMSP, which serves as a precursor for virulence-associated compounds.
+- In *Burkholderia thailandensis*, **BurB** is responsible for producing DMSP, which serves as a precursor for virulence-associated compounds.
 
 <br>
 
